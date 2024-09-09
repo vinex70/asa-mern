@@ -46,3 +46,5 @@ jspm_packages
 
 #Excluding build directory
 public/
+#
+auth-asa-firebase-adminsdk-60lxc-8bcebd68a0.json

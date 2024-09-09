@@ -2,7 +2,7 @@ import { Link, Outlet } from "react-router-dom";
 import logo from "../imgs/logo.png";
 import { useContext, useState } from "react";
 import { UserContext } from "../App";
-import { FaRegBell } from "react-icons/fa";
+
 import UserNavigationPanel from "./user-navigation.component";
 
 const Navbar = () => {
